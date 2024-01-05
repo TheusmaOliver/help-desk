@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: 'user-service-api'
+  data:
+    mongodb:
+      uri: 'mongodb+srv://matheusrodriguesoliveira273:asfads007@clusterhelpdesk.qdh8tuo.mongodb.net/helpdeskdb?retryWrites=true&w=majority'
+      auto-index-creation: true
